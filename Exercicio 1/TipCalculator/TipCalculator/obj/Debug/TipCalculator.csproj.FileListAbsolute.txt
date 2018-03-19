@@ -1,0 +1,5 @@
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM140\Exercicio 1\TipCalculator\TipCalculator\obj\Debug\TipCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM140\Exercicio 1\TipCalculator\TipCalculator\obj\Debug\TipCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM140\Exercicio 1\TipCalculator\TipCalculator\obj\Debug\TipCalculator.StandardTipPage.xaml.g.cs
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM140\Exercicio 1\TipCalculator\TipCalculator\obj\Debug\TipCalculator.CustomTipPage.xaml.g.cs
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM140\Exercicio 1\TipCalculator\TipCalculator\obj\Debug\TipCalculator.App.xaml.g.cs
